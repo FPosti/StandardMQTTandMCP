@@ -1,12 +1,9 @@
 {
   "profiles": {
-    "StandardMQTTandMCP": {
+    "StandardMQTTandMCP.McpServer": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:50306;http://localhost:50307"
+      "launchBrowser": false,
+      "applicationUrl": "http://127.0.0.1:5000"
     }
   }
 }

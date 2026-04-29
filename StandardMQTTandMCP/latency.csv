@@ -1,0 +1,14 @@
+received_at_utc,sent_at_utc,latency_ms,topic,payload,parse_error
+2026-04-28T14:11:23.0148420+00:00,,,edge/device1/sensor/temperature,18.1,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-28T14:11:28.0138408+00:00,,,edge/device1/sensor/temperature,19.8,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-28T14:11:33.0164764+00:00,,,edge/device1/sensor/temperature,26.1,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:31:51.8493022+00:00,,,edge/device1/sensor/temperature,23.9,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:31:56.8569343+00:00,,,edge/device1/sensor/temperature,18.1,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:01.8637408+00:00,,,edge/device1/sensor/temperature,19.7,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:06.8733312+00:00,,,edge/device1/sensor/temperature,27.6,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:11.8792527+00:00,,,edge/device1/sensor/temperature,23.6,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:16.8923689+00:00,,,edge/device1/sensor/temperature,18.3,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:21.9010349+00:00,,,edge/device1/sensor/temperature,24.8,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:26.9037351+00:00,,,edge/device1/sensor/temperature,22,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:31.9367536+00:00,,,edge/device1/sensor/temperature,22.5,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
+2026-04-29T07:32:36.9371702+00:00,,,edge/device1/sensor/temperature,28,Payload must be a UTC timestamp like 2026-04-28T12:43:42.1329812Z.
